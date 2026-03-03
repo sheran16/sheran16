@@ -1,6 +1,6 @@
 👋 Hi there! I'm **@sheran16**
 
-💡 I’m passionate about **Business Analysis** and bridging the gap between technology and real-world business needs.  
+💡 I’m passionate about **Business Analysis** and **Project management** bridging the gap between technology and real-world business needs.  
 🌱 Currently learning **Web Development** and **Requirement Gathering Techniques** to enhance my analytical and technical skill set.  
 🚀 I’m on a journey to combine analytical thinking with modern web solutions to create efficient, user-focused systems.  
 
